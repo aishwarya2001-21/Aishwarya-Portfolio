@@ -20,7 +20,7 @@ This section presents work samples related to business analysis, process documen
 - presentation materials
 - knowledge article screenshots
 - Trello screenshots
-- Daily learning and progress tracker
+- Daily learning and progress tracker 
 
 ##Tools Used
 - Salesforce Einstein Bot
@@ -29,4 +29,9 @@ This section presents work samples related to business analysis, process documen
 - MS Powerpoint
 - Trello
 - Element.cloud for UPN(Universal Process Notation)
+
+##Linked Work for Daily Learning Tracker
+- [Daily learning and progress Tracker-Google sheets]
+  (https://docs.google.com/spreadsheets/d/179Q0oCOj7MDV6ycl0fwvcEL9DYMGkzIp5zhU3PNSqtg/edit?usp=sharing)
+  
 

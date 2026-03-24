@@ -16,10 +16,9 @@ This section includes selected work and mini projects related to planning, docum
 
 Examples of work included:
 - Trello-based workflow organization
-- Application and task tracking
+- Application tracking
 - Documentation and structured notes
 - Process and workflow-related work samples
-- Coordination-focused templates and trackers
 
 ## Additional Projects
 This section includes selected technical, academic, and analytical projects that reflect problem-solving, learning, and hands-on project work.

@@ -34,11 +34,15 @@ Examples may include:
 - Trello
 - Google Sheets
 - Salesforce Einstein Bot
-- Zapier
+- Jupyter Notebook
 - Workflow Documentation
 - Process Mapping
-- GitHub
+- Google Collab
 - WordPress
+- Python
+- MS Powerpoint
+- MS Word Document
+
 
 ## Certifications and Learning
 This portfolio also reflects ongoing learning through certifications, practical exercises, and structured project work.

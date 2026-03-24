@@ -10,14 +10,23 @@ This section presents work samples related to business analysis, process documen
 - user stories and prioritization
 - project presentations
 - Trello-based tracking
+- Daily Learning Tracker
 
 ## Types of work included
 - Current State UPN
 - Future State UPN
 - Einstein Bot screenshots
 - user stories
-- prioritization work
 - presentation materials
 - knowledge article screenshots
 - Trello screenshots
-- prompt-based pain point analysis
+- Daily learning and progress tracker
+
+##Tools Used
+- Salesforce Einstein Bot
+- Google Sheets
+- MS Word Document
+- MS Powerpoint
+- Trello
+- Element.cloud for UPN(Universal Process Notation)
+

@@ -22,7 +22,7 @@ This section includes selected academic and practical projects related to machin
       1.Applied Neural Networks to work on Heart Disease Predictive Model to demonstrate the application of AI in healthcare analytics.
       2.Contributed to the development of a predictive model that aids in the early detection of heart disease using relevant data and 
         machine learning algorithms.
-      3.We build a simple neural network using classification model(Supervised Learning Technique) to make a heart disease predictive 
+      3.Built a simple neural network using classification model(Supervised Learning Technique) to make a heart disease predictive 
         model to predict the “target” column of dataset.We used keras algorithm for developing and evaluating deep learning models.
       
 - Image Classification(With_masks and without_masks)using Neural Networks and CNN           

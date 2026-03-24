@@ -19,6 +19,6 @@ This section includes selected academic and practical projects related to machin
 
 ## Projects included
 - Heart Disease Predictive Model
-- Image Classification using Neural Networks and CNN
+- Image Classification(With_masks and without_masks)using Neural Networks and CNN
 - SQL Data Cleaning Project
 - Power BI Dashboard Project

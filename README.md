@@ -10,6 +10,7 @@ Welcome to my portfolio repository. This space brings together projects, work sa
 - Task Tracking
 - Structured Problem-Solving
 - Continuous Learning
+- AI Based projects 
 
 ## Business Analysis and Project Coordination
 This section includes selected work and mini projects related to planning, documentation, workflow understanding, task coordination, and progress tracking.

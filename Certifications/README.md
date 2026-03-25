@@ -12,7 +12,7 @@ This section includes certifications and completed learning programs related to 
 
 ## Course Completion
 - Beginner WordPress User course (completed)
-- link:https://learn.wordpress.org/my-courses/
+- link:https://learn.wordpress.org/course/beginner-wordpress-user/
 
 ## Types of work included
 - certification files

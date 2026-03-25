@@ -50,7 +50,7 @@ This portfolio also reflects ongoing learning through certifications, practical 
 Current learning areas include:
 - WordPress
 - Business Analysis
-- AI and workflow-related tools
+- AI Automation Tools(Zapier,n8n)
 
 ## Goal of This Portfolio
 The goal of this repository is to present organized, practical, and role-relevant work that reflects documentation skills, workflow thinking, process understanding, coordination ability, and continuous improvement.

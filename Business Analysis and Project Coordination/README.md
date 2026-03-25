@@ -7,7 +7,7 @@ This section presents work samples related to business analysis, process documen
 - process and workflow analysis
 - business documentation
 - Salesforce Einstein Bot work
-- user stories and prioritization
+- user stories with AI
 - project presentations
 - Trello-based tracking
 - Daily Learning Tracker
